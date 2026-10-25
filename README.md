@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://cleverdeveloper360.vercel.app" target="_blank">
+  <a href="https://bonankem.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:Chulocr8v@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/bonaventure-nkematu-77b563148/" target="_blank">
+  <a href="https://www.linkedin.com/in/bona-nkem/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
